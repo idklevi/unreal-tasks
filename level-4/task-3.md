@@ -28,4 +28,4 @@ Test and refine the movement mechanics and interaction systems for smooth gamepl
 Upload your project to GitHub. Include a **README** file that explains the movement mechanics and interactions you've implemented.
 
 ### 📌 Step 7: Submission
-Submit the GitHub repository link in the [Discord channel](https://discord.com/channels/771670169691881483/1315007911449071706) using the hashtag **#cl-game-dev-playermovement** to earn ⭐ 350 Karma Points.
+Submit the GitHub repository link in the [Discord channel](https://discord.com/channels/771670169691881483/1315007911449071706) using the hashtag **#cl-unreal-playermovement** to earn ⭐ 350 Karma Points.
