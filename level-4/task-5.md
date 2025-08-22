@@ -23,4 +23,4 @@ Document in your **README** file:
 - How animations are triggered by player input  
 
 ### 📌 Step 4: Submission  
-Submit your project in the [Discord channel](https://discord.com/channels/771670169691881483/1315007911449071706) using the hashtag **#cl-game-dev-characteranimations** to earn ⭐ 300 Karma Points.
+Submit your project in the [Discord channel](https://discord.com/channels/771670169691881483/1315007911449071706) using the hashtag **#cl-unreal-characteranimations** to earn ⭐ 300 Karma Points.
