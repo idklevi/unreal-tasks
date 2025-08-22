@@ -26,4 +26,4 @@ Upload your project to GitHub with Unreal Engine files and a **README** explaini
 - Adjustments made in Unreal  
 
 ### 📌 Step 5: Submission  
-Submit the GitHub link in the [Discord channel](https://discord.com/channels/771670169691881483/1315007911449071706) with the hashtag **#cl-game-dev-3dmodel** to earn ⭐ 250 Karma Points.
+Submit the GitHub link in the [Discord channel](https://discord.com/channels/771670169691881483/1315007911449071706) with the hashtag **#cl-unreal-3dmodel** to earn ⭐ 250 Karma Points.
