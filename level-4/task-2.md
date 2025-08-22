@@ -20,4 +20,4 @@ Focus on creating seamless interactions that enhance gameplay and challenge the 
 Upload your project to GitHub. Include a **README** file that explains the interactions you've created and how they function.
 
 ### 📌 Step 5: Submission
-Submit the GitHub repository link in the [Discord channel](https://discord.com/channels/771670169691881483/1315007911449071706) using the hashtag **#cl-game-dev-complexblueprint** to earn ⭐ 300 Karma Points.
+Submit the GitHub repository link in the [Discord channel](https://discord.com/channels/771670169691881483/1315007911449071706) using the hashtag **#cl-unreal-complexblueprint** to earn ⭐ 300 Karma Points.
