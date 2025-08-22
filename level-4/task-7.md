@@ -29,4 +29,4 @@ Test the setup to ensure objects behave naturally within the environment. Verify
 Document the physics settings applied and how they affect objects in a **README** file.  
 
 ### 📌 Step 5: Submission  
-Submit your project in the [Discord channel](https://discord.com/channels/771670169691881483/1315007911449071706) using the hashtag **#cl-game-dev-physics** to earn ⭐ 200 Karma Points.
+Submit your project in the [Discord channel](https://discord.com/channels/771670169691881483/1315007911449071706) using the hashtag **#cl-unreal-physics** to earn ⭐ 200 Karma Points.
