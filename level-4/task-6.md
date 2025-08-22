@@ -23,4 +23,4 @@ Document the skeletal mesh setup in a **README** file. Include details about:
 - Adjustments made in Unreal Engine  
 
 ### 📌 Step 5: Submission  
-Submit your project in the [Discord channel](https://discord.com/channels/771670169691881483/1315007911449071706) using the hashtag **#cl-game-dev-skeletalmesh** to earn ⭐ 350 Karma Points.
+Submit your project in the [Discord channel](https://discord.com/channels/771670169691881483/1315007911449071706) using the hashtag **#cl-unreal-skeletalmesh** to earn ⭐ 350 Karma Points.
